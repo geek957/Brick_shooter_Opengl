@@ -1,0 +1,36 @@
+DISPLAY:
+
+1.Left top is no of lifes which decreases when you hit green/red brick or when black brick falls inn any of the basket.
+2.Right top is the score which increses by 1 when green or red ball falls into red or green baskets respectively.
+3.Canon in the left.
+4.Baskets at the bottom.
+
+
+Features:
+
+1.Lifes
+2.Score
+3.Probability of falling blocks increases as score is increasing.
+4.sound effects for laser release and collision.
+
+
+CONTROLS:
+
+1. a                                  :rotate canon anticlockwise limited to 75degrees.
+2. d                                  :rotate canon clockwise limited to 75 75degrees.
+3. s                                  :move canon upwards.
+4. f                                  :move canon downwards.
+5. m                                  :decrease speed of falling bricks.
+6. n                                  :increase speed of falling bricks.
+7. q                                  :quit from game
+8. ctrl+left                          :move red basket left side.
+9. ctrl+right                         :move red basket right side.
+10.shift+left                         :move green basket left side.
+11.shift+right                        :move green basket right side.
+12.up arrow/scroll down               :zoom out
+13.down arrow/scroll up               :zoom in
+14.left arrow/rightclick+move         :panning screen left side
+15.right arrow/rightclick+move        :panning screen right side
+16.space/left click                   :releases laser.
+17.leftclick(on canon/baskets)+move   :moving the baskets/canon.
+
